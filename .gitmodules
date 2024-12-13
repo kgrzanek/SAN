@@ -1,3 +1,12 @@
 [submodule "SAN-old"]
 	path = SAN-old
 	url = https://github.com/kgrzanek/SAN-old
+[submodule "2024-zimowy"]
+	path = 2024-zimowy
+	url = https://github.com/kgrzanek/2024-zimowy
+[submodule "sansi-svc"]
+	path = sansi-svc
+	url = https://github.com/kgrzanek/sansi-svc
+[submodule "sansi-fe"]
+	path = sansi-fe
+	url = https://github.com/kgrzanek/sansi-fe
